@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.0",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "punycode": "^2.3.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}

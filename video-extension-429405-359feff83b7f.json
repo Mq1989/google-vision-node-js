@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "video-extension-429405",
+  "private_key_id": "ENTER YOUR PRIVATE KEY (YOU NEED TO FILL THIS OUT WITH YOUR OWN CREDENTIALS)",
+  "private_key": "SEE GOOGLE CLOUD CONSOLE FOR DETAILS (YOU NEED TO FILL THIS OUT WITH YOUR OWN CREDENTIALS)",
+  "client_email": "CLIENT EMAIL (YOU NEED TO FILL THIS OUT WITH YOUR OWN CREDENTIALS)",
+  "client_id": "CLIENT ID (YOU NEED TO FILL THIS OUT WITH YOUR OWN CREDENTIALS)",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "CERT URL (YOU NEED TO FILL THIS OUT WITH YOUR OWN CREDENTIALS)",
+  "universe_domain": "googleapis.com"
+}
